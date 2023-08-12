@@ -1,6 +1,6 @@
 # Projeto de Blog de Postagens com - Sistema de Login e Cadastro
 
-Este é um projeto de blog de postagens de posts - com um sistema de login-  e cadastro de usuários, criado usando Node.js com Express, Handlebars, Mongoose e outras tecnologias. Desenvolvido em conjunto ao Professor Victor Lim- a.
+Este é um projeto de blog de postagens de posts - com um sistema de login-  e cadastro de usuários, criado usando Node.js com Express, Handlebars, Mongoose e outras tecnologias. Desenvolvido em conjunto ao Professor Victor Lima.
 
 ## Instruções de Uso
 
